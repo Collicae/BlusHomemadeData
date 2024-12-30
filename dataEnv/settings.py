@@ -89,7 +89,7 @@ MIDDLEWARE = [
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "https://first-website-r-copy-git-main-calebs-projects-141aec91.vercel.app",
-    'first-website-r-copy-dykdpe4a5-calebs-projects-141aec91.vercel.app',
+    'https://first-website-r-copy-dykdpe4a5-calebs-projects-141aec91.vercel.app',
 ]
 
 CORS_ALLOW_CREDENTIALS = True
